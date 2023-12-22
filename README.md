@@ -19,4 +19,7 @@ This project was created to practice react skills. The idea is to create a simpl
 2. Run `npm install` or `yarn install` to install dependencies
 3. Run `npm start` or `yarn start` to start the application
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
+![Screen_1](https://github.com/fsmaiorano/react-timer/blob/master/github/main.png)
